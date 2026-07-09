@@ -42,8 +42,7 @@ Sales Data → Data Cleaning → Data Analysis → Trend Analysis → Visualizat
 
 ### 📘 Jupyter Notebook
 
-[View Notebook](https://github.com/vikashsahu07/Sales_Trend_Visualization/blob/main/Sales_Trend_Visualization.ipynb)
-
+[View Notebook](https://github.com/vikashsahu07/Sales_Trend_Visualization/blob/main/Sales_Trend_Visualization/Sales_Trend_Visualization.ipynb)
 ### 📂 GitHub Repository
 
 [View Repository](https://github.com/vikashsahu07/Sales_Trend_Visualization)
