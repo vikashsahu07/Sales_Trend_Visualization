@@ -2,7 +2,9 @@
 
 Sales Trend Visualization is a Python-based Data Analytics project developed as part of my Data Analytics Internship at CodeTech IT Solutions.
 
-The project focuses on analyzing sales data to identify monthly sales trends, regional performance, category contribution, and top-selling products. It helps transform raw sales data into meaningful business insights through data analysis and visualization, supporting data-driven decision-making.
+The project focuses on analyzing sales data to identify monthly sales trends, regional performance, category contribution, and top-selling products. It helps transform raw sales data into meaningful business insights through data analysis and visualization, supporting data-driven decision-making
+
+
 ---
 
 ## 🚀 Technologies Used
